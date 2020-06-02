@@ -15,5 +15,5 @@ Requirements:
 <img src="front.jpg" width="500" align="center"> 
 <img src="20190820-DSC03962.jpg" width="500" align="center"> 
 <img src="20190820-DSC03964.jpg" width="500" align="center"> 
-<img src="20190820_170032.jpg" width="500" align="center"> 
+<img src="20190820_170032.jpg" width="500" align="center" style="transform:rotate(90deg);"> 
 
