@@ -11,9 +11,9 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example](iso1.jpg)
-![Example](front.jpg)
-![Example](20190820-DSC03962.jpg)
-![Example](20190820-DSC03964.jpg)
-![Example](20190820_170032.jpg)
+<img src="iso1.jpg" width="500" align="center"> 
+<img src="front.jpg" width="500" align="center"> 
+<img src="20190820-DSC03962.jpg" width="500" align="center"> 
+<img src="20190820-DSC03964.jpg" width="500" align="center"> 
+<img src="20190820_170032.jpg" width="500" align="center"> 
 
